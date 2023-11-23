@@ -10,6 +10,4 @@ ____
 
 ___
 
-![image](https://github.com/techerbeatrice/Les-bases-du-courrier-electronique/assets/138071140/d66eb481-7085-408f-8805-e8404014a606)
-
-![image](https://github.com/techerbeatrice/Les-bases-du-courrier-electronique/assets/138071140/873b5c79-37b0-410f-adaf-93d694f8121a)
+![image](https://github.com/techerbeatrice/Les-bases-du-courrier-electronique/assets/138071140/2eb1ca02-ea9a-4bb6-a92e-4660cee12ee3)
